@@ -2,8 +2,8 @@
 
 namespace jebraili\TestLaravelPackage;
 
-class TestLaravelPackage {
-
+class TestLaravelPackage
+{
     public static function sayHello()
     {
         echo 'Hello World!';

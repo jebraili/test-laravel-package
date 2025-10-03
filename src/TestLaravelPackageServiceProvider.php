@@ -2,9 +2,9 @@
 
 namespace jebraili\TestLaravelPackage;
 
+use jebraili\TestLaravelPackage\Commands\TestLaravelPackageCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use jebraili\TestLaravelPackage\Commands\TestLaravelPackageCommand;
 
 class TestLaravelPackageServiceProvider extends PackageServiceProvider
 {

@@ -3,8 +3,8 @@
 namespace jebraili\TestLaravelPackage\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use jebraili\TestLaravelPackage\TestLaravelPackageServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
